@@ -1,8 +1,19 @@
-# React + Vite
+# 🌗 ThemeSwitcher_ContextAPI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React project that implements **light and dark mode switching** using **Context API** and **useContext hook**.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- 🔄 **Toggle between Light & Dark Mode**
+- 🎨 **Smooth Theme Transitions**
+- ⚡ **Uses Context API for Global State Management**
+- 🌍 **Persists Theme Preference in Local Storage**
+- 📱 **Fully Responsive Design**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🛠️ Installation & Setup
+
+1. **Clone the repository**
+   ```sh
+   git clone https://github.com/Seboo-Dogar/ThemeSwitcher_ContextAPI.git
+   cd ThemeSwitcher_ContextAPI
